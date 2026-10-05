@@ -8,4 +8,3 @@ user-data/
     website-browser-success.png
     elastic-ip-associated.png
     ami-available.png
- 
